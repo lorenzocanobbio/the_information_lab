@@ -4,7 +4,6 @@ import random
 
 def rFunction():
 
-    #print('\n')
     a = random.randrange(1, 9)
     b = random.randrange(1, 9)
     c = a * b
