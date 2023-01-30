@@ -1,4 +1,4 @@
-'''ASSIGNEMENT: Guess a number bertween 1 and 10'''
+'''ASSIGNEMENT'''
 
 import random
 
